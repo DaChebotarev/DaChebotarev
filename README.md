@@ -6,6 +6,7 @@
 - Владею Python, SQL, Tableau, Google Sheets
 - Настойчив в своём деле и довожу любую задачу до конца
 - В данных момент активно ищу работу Дата-аналитиком
-- 
+  
 ## Мои контакты
-danil.chebotarevv@yandex.ru
+e-mail - danil.chebotarevv@yandex.ru
+Telegram - @yeahche
