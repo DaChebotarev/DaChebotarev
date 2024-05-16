@@ -8,5 +8,5 @@
 - В данных момент активно ищу работу Дата-аналитиком
   
 ## Мои контакты
-e-mail - danil.chebotarevv@yandex.ru
-Telegram - @yeahche
+- e-mail - danil.chebotarevv@yandex.ru
+- Telegram - @yeahche
