@@ -1,16 +1,11 @@
-### Hi there 👋
+### Привет, я Данила Чеботарёв👋
 
-<!--
-**DaChebotarev/DaChebotarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Я начинающий аналитик данных
+И вот, что я могу рассказать о себе:
+- Успешно окончил 7-ми месячные курсы "Аналитик данных" от Яндекс.Практикум
+- Владею Python, SQL, Tableau, Google Sheets
+- Настойчив в своём деле и довожу любую задачу до конца
+- В данных момент активно ищу работу Дата-аналитиком
+- 
+## Мои контакты
+danil.chebotarevv@yandex.ru
